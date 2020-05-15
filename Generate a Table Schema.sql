@@ -1,5 +1,5 @@
 DECLARE @table_name SYSNAME
-SELECT @table_name = 'info.tbl_contrato_carteira_42'
+SELECT @table_name = 'schema.table'
 
 DECLARE 
       @object_name SYSNAME
