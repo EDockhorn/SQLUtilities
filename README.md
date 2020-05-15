@@ -1,2 +1,2 @@
 # SQLUtilities
-Repository for store some utilities from T-SQL
+Repository for store some utilities from T-SQL.
